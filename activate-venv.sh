@@ -1,2 +1,2 @@
 #!/bin/bash
-. /Source/venv/bin/activate
+./Source/venv/bin/activate
