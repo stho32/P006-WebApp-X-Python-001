@@ -1,4 +1,10 @@
-Beware! This project has just started. It is not complete yet and maybe never will be since I use github to tinker around.
+# "inTime" - a tool to record your working time 
 
-# ProjectTemplate-Base
-Base structure for a general purpose project
+## Level 1
+
+- [ ] (R001) The app contains three buttons
+  - [ ] (R001) "Stop"
+  - [ ] (R002) "Start"
+  - [ ] (R003) "Clear"
+
+- [ ] (R004) The app shows the currently recorded time in real-time
